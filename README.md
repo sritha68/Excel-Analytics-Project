@@ -81,3 +81,4 @@ Tools Used:
 3. Charts & Dashboard
 
 4. Power Query
+<img width="876" height="628" alt="Final dashboard" src="https://github.com/user-attachments/assets/aa588e88-9074-46a9-8f45-2e6646564d77" />
